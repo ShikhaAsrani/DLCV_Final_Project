@@ -2,8 +2,8 @@
 Final project for DLCV course
 
 Folder structure:
-- Novel dataset - indian context images with Hindi Captions
-- Flickr8k hindi captions
+- Novel dataset images(indian context images with Hindi Captions)
+- Flickr8k(Images can be found online) hindi captions
 - Trained models
 - Image Features
   - Flickr8k
